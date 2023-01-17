@@ -7,6 +7,8 @@ a streak counter for the browser, inspired by Duolingo
 yarn add @nitish-hegde-vst-au4/streak-counter
 ```
 
+## Usage
+
 ```javascript
 import {streakCounter} from "@nitish-hegde-vst-au4/streak-counter"
 
